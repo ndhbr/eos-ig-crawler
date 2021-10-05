@@ -1,0 +1,12 @@
+{
+    "name": "andi/eos",
+    "require": {
+        "raiym/instagram-php-scraper": "^0.8.35"
+    },
+    "authors": [
+        {
+            "name": "Andreas Huber",
+            "email": "andi@pl32.de"
+        }
+    ]
+}
